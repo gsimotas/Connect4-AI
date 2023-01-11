@@ -1,7 +1,7 @@
 
 
 import random  
-from ps9pr3 import *
+from connect4 import *
 
 class AIPlayer(Player):
     def __init__(self, checker, tiebreak, lookahead):
