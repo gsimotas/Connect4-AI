@@ -1,8 +1,4 @@
-#
-# ps9pr2.py (Problem Set 9, Problem 2)
-#
-# A Connect-Four Player class 
-#  
+
 
 from ps9pr1 import Board
 
